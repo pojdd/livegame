@@ -1,0 +1,2 @@
+python rtmpLiveGame.py
+pause
